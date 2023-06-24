@@ -1,0 +1,35 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	background:navy;
+	color: #fff;
+	
+	
+	
+}
+body{
+	background-color: powderblue;
+}
+table.show{
+	width: 70%;
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+	color:white;
+	background:rgb(255, 69, 0);
+}
+tr.type{
+	color: rgb(12, 12, 12);
+	width: 50%;
+}
+tbody{
+	color: white;
+}
+th.type{
+	width: 40%;
+}
